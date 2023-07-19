@@ -38,7 +38,7 @@ https://github.com/Destroer47
 This project is licensed under the MIT License. To learn more info about the MIT License, click here, https://opensource.org/license/mit/
 
 ## Project Links
-Github Repository: https://github.com/Destroer47/09-README-Generator
+Github Repository: https://github.com/Destroer47/09-README-Generator    
 Video Walkthrough: https://drive.google.com/file/d/1V3ea8DhdmcO5Y91ZzY7bQ8E5u9-SG5Ds/view?usp=sharing
 
 ## Contact Info
