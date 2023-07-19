@@ -1,55 +1,53 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+// function renderLicenseBadge(license) {}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+// function renderLicenseLink(license) {}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {}
+// function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+# ${data.title}
 
-  ## Description
-    ${data.description}
+## Description
+${data.description}
 
-  ## Table of Contents
-    - [Technologies Used](#technologies-used)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Credits](#credits)
-    - [License](#license)
-    - [Project Links](#project-links)
-    - [Contact Info](#contact-info)
+## Table of Contents
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Project Links](#project-links)
+- [Contact Info](#contact-info)
 
-  ## Technologies Used
-    ${data.tech}
+## Technologies Used
+${data.tech}
 
-  ## Installation
-    ${data.installation}
+## Installation
+${data.installation}
 
-  ## Usage
-    ${data.usage}
+## Usage
+${data.usage}
 
-  ## Credits
-    ${data.credits}
+## Credits
+${data.credits}
 
-  ## License
-    ${data.license}
+## License
+${data.license}
 
-  ## Project Links
-    ${data.links}
+## Project Links
+${data.links}
 
-  ## Contact Info
-    My Github Profile: ${data.username}
-    My email: ${data.email}
-
-  ## Badges
-
+## Contact Info
+My Github Profile: ${data.username}
+My email: ${data.email}
 `;
 }
 
