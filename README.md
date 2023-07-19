@@ -42,5 +42,5 @@ Github Repository: https://github.com/Destroer47/09-README-Generator
 Video Walkthrough: https://drive.google.com/file/d/1V3ea8DhdmcO5Y91ZzY7bQ8E5u9-SG5Ds/view?usp=sharing
 
 ## Contact Info
-My Github Profile: [Destroer47](https://github.com/Destroer47)
+My Github Profile: [Destroer47](https://github.com/Destroer47)  
 My email: andrewj5787@jesterz.net
