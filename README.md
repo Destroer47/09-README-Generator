@@ -28,8 +28,8 @@ JavaScript, Node.js, Inquirer
 
 Example Screenshots are below
 
-2. ![#2 Usage Example](assets/2Usage.png)
-3. ![#3 Usage Example](assets/3Usage.png)
+![Usage Example](./assets/2Usage.png)
+![Usage Example](./assets/3Usage.png)
 
 ## Credits
 https://github.com/Destroer47
